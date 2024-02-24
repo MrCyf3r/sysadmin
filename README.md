@@ -1,2 +1,2 @@
-# web-server
-Repo for first website project.
+# sysadmin scripts
+Repo for quick sample Python and PowerShell scripts for basic systems administration.
