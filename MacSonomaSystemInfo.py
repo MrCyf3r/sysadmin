@@ -12,4 +12,6 @@ def check_for_updates():
         print(result)
 
 
-check_for_updates()
+# Prevent this script from running automatically if imported as a module.
+if __name__ == "__main__":
+    check_for_updates()
